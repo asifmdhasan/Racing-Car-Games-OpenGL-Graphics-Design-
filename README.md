@@ -10,3 +10,4 @@ Feature Description:
 7.	After passed some stage, speed fixed.
 8.	When random car touch user car then it will crashed and game over.
 9.	Here sound is used. This sound will be changed in particular moment.
+10. If you die then you see your score and your best score.
